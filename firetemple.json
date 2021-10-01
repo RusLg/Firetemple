@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "ItzRusLgBlyatZaebaliMenyaTrogat#4455",
+        "version": "1.0.0",
+        "license": "OSL3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/RusLg\/REZERO-1.0.0\/main\/REZERO.json",
+        "name": "Fire Temple"
+    },
+    "background": {
+        "blur_radius": 0,
+        "overlay_alpha": 1,
+        "url": "https:\/\/i.imgur.com\/Kb6sC93.gif"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/360420923956002826\/885670847484932178\/Inconsolata_SemiCondensed-Medium.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": -15662334,
+        "background": -15006461
+    },
+    "colors": {
+        "primary_dark_200": -6518,
+        "primary_dark_300": -5492688,
+        "primary_dark_660": -16313311,
+        "primary_dark_800": -15854570,
+        "link": -2618356,
+        "uikit_settings_item_text_color_dark": -1523670
+    },
+    "drawable_tints": {}
+}
